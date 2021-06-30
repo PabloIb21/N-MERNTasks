@@ -10,6 +10,13 @@ _Escribe el siguiente comando para instalar los módulos de Node.js_
 npm install
 ```
 
+_Crear una archivo en la raíz llamado variables.env con las sig. variables_
+
+```
+DB_MONGO=La cadena de conexión de tu BD
+SECRETA=Un "password" cualquiera
+```
+
 _Iniciar la aplicación (modo desarrollo)_
 
 ```
